@@ -1,4 +1,4 @@
-Question 1 :In the question we are asked to prove Ziph's law by showing the plot between the Ranks and frequency of words on any corpus from Natural Language toolkit.
+**Question 1 :**In the question we are asked to prove Ziph's law by showing the plot between the Ranks and frequency of words on any corpus from Natural Language toolkit.
 
  **PART I**
  For this, the below steps were followed:
@@ -11,7 +11,7 @@ Question 1 :In the question we are asked to prove Ziph's law by showing the plot
   Plot the graph:
   -read the frequencies, rank of the words and plot the loglog graph between the two(prove ziph's law)
   
-Question 2: In this question, we are given the data(json files) of various restaurants, hotels and attractions, we have to create the folder hierarchy with the lowest being 
+**Question 2:** In this question, we are given the data(json files) of various restaurants, hotels and attractions, we have to create the folder hierarchy with the lowest being 
 on the basis of terms and place the json files in the correct folder
 For this, the below steps were followed:
 
