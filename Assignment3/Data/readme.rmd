@@ -1,0 +1,41 @@
+** Assignment 3 **
+
+Question 1 Part 1 : In this analysis, we are evaluating the percentage of collisions in Manhattan out of that year's total accidents in New York City.
+
+** OUTPUT: **
+<img width="1280" alt="screen shot 2017-04-05 at 11 47 26 pm" src="https://cloud.githubusercontent.com/assets/25044358/24737301/9f34d70a-1a5b-11e7-89f2-7fa8f779afe9.png">
+
+
+
+Question 1 Part 2: In this analysis, we are evaluating for a particular Borough, how many cars were involved in the accident.
+
+** OUTPUT: **
+<img width="1280" alt="screen shot 2017-04-05 at 11 55 04 pm" src="https://cloud.githubusercontent.com/assets/25044358/24737306/a5a4b97a-1a5b-11e7-99ad-7fae6c81f0b6.png">
+
+
+Question 2 Part 1: In this analysis, we are evaluationg the highest paid departments in each organization group by calculating mean of total compensation for every 
+department and sorting the departments within the organization based on the mean
+
+** OUTPUT: **
+<img width="1280" alt="screen shot 2017-04-05 at 11 55 18 pm" src="https://cloud.githubusercontent.com/assets/25044358/24737312/b30d26b0-1a5b-11e7-9d94-ee4ffd94e83f.png">
+
+
+
+Question 2 Part 2: In this analysis, we are filtering the employees details on the basis of the calendar year  and determining the average salary for every employee.
+Also, determining the people whose overtime salary is greater than 5% of salaries. 
+
+** OUTPUT: **
+<img width="1280" alt="screen shot 2017-04-05 at 11 55 28 pm" src="https://cloud.githubusercontent.com/assets/25044358/24737316/b75dade8-1a5b-11e7-9c1d-6f6fcaadc81e.png">
+
+
+
+Question 3:In this analysis, for each team, we are calculating the average score for each winning nd host team 
+
+** OUTPUT: **
+<img width="1280" alt="screen shot 2017-04-05 at 11 55 39 pm" src="https://cloud.githubusercontent.com/assets/25044358/24737324/bf63bb0e-1a5b-11e7-85e2-b8e3fc24deec.png">
+
+Question 4: In this analysis, we are analysing the number of awards won for every category.
+
+
+** OUTPUT: **
+<img width="1280" alt="screen shot 2017-04-05 at 11 55 53 pm" src="https://cloud.githubusercontent.com/assets/25044358/24737328/c61efcb0-1a5b-11e7-876d-52142afce7c3.png">
