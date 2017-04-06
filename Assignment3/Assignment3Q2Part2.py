@@ -42,19 +42,24 @@ employee_comp=employee_comp[employee_comp['Overtime']>0.05*employee_comp['Salari
 print(employee_comp.head())
 
 
-# In[13]:
+# In[27]:
 
 # group by family to calculate the mean
 mean_job=pd.DataFrame(employee_comp.groupby(['Job Family']).mean().reset_index())
-mean_job['Percentage']=(mean_job['Total Benefits']/mean_job['Total Compensation'])*100 #calculate the percentage of total benefits over total compensation
+mean_job['Percent_Total_Benefit']=(mean_job['Total Benefits']/mean_job['Total Compensation'])*100 #calculate the percentage of total benefits over total compensation
 
 
-# In[14]:
+# In[30]:
 
-print(mean_job.drop(mean_job.columns[[1,2,3,4,5,6,7,8,9,10,11,12,13]],axis=1).head())
+Family_data=mean_job.drop(mean_job.columns[[1,2,3,4,5,6,7,8,9,10,11]],axis=1).head()
+
+
+# In[31]:
+
+Family_data.to_csv("Data/Question2Part2.csv") # export the data to csv
 
 
 # In[ ]:
 
-mean_job.to_csv("Data/Question2Part2.csv") # export the data to csv
+
 
