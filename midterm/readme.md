@@ -1,4 +1,4 @@
-**Question 1** : It is  focused on the enron email analysis, which basically revolved around the two main people involved in the scandal, Kenneth Lay and Jeffrey Skilling.
+**Question 1** : It is  focused on the enron email analysis, which basically revolved around the two main people involved in the scandal, Kenneth Lay and Jeffrey Skilling..
 
 **ANALYSIS I**:
 
