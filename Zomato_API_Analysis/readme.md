@@ -97,7 +97,7 @@ Using pandas, grouping 'Country' and 'City', the aggregate rating is calculated 
 
 *******************************************************************************************
 
-## Analysis II: Famous cuisine of a country with location where it is served and number of restaurants serving that cuisine in that location
+## Analysis II: Populr cuisine of a country with location where it is served and number of restaurants serving that cuisine in that location
 
 ### Objective:
 
